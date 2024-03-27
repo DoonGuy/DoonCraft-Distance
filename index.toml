@@ -2,11 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "LICENSE"
-hash = "e3a994d82e644b03a792a930f574002658412f62407f5fee083f2555c5f23118"
+hash = "7d3a95e5e06978064ed3f8e2b7c8f845e7fd8a405294727cc708f94cb83b8059"
 
 [[files]]
 file = "README.md"
 hash = "ba126a50cc1a4d6416d2b00c96fec1d72d01c0b30e3583050fd1bd1fbea8134a"
+
+[[files]]
+file = "config/DistantHorizons.toml"
+hash = "cfc10a2abf86ff1f6bbc8566061688ce380a4aa6980e62df4f7b1c6b45a15361"
 
 [[files]]
 file = "mods/DistantHorizons-fabric-2.0.2-a-dev-1.20.1.jar"
@@ -14,12 +18,12 @@ hash = "1e12688df5b051d4d399bf4bb919be7f30d18322507f1c7fd924b7217c103a9c"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e3272db811c06088fee691b5338e922681073fbc4f0e55a7d3865abb8b62eb0e"
+hash = "7e7fb47db231cf93273a6ca4b9cacc6598b269458303f3e1b0d180c286d36045"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
+hash = "69af9146103289d02cdcb5214435302a2af91f4c2aa459fae5f95bc5104abbbe"
 metafile = true
 
 [[files]]
@@ -28,10 +32,14 @@ hash = "c0d2cb69de06eec6a681f3adf475f6b51e01f27c6def29d13e328d01756fbd21"
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+hash = "6ccdedbcab01af6b64bf08338c6341a16efe907a71cca5b398192c75fbcc07c8"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
+hash = "8e25d9e5d7386aab80047434e48cc9d6677eed9f6dc724ee8b713e75ea153f8f"
 metafile = true
+
+[[files]]
+file = "shaderpacks/Bliss-Shader-main.zip"
+hash = "264c970f1761ca0dfa5bc1ad8cbe70ce55cf1b1cdcb6d76588e5ebefb9898ff7"
