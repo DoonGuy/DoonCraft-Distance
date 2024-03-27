@@ -9,9 +9,8 @@ file = "README.md"
 hash = "ba126a50cc1a4d6416d2b00c96fec1d72d01c0b30e3583050fd1bd1fbea8134a"
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "fe79cc78adf75a5aa3f32b2ac61a141ee7a4db1baebf628bee058a9c4381b255"
-metafile = true
+file = "mods/DistantHorizons-fabric-2.0.2-a-dev-1.20.1.jar"
+hash = "1e12688df5b051d4d399bf4bb919be7f30d18322507f1c7fd924b7217c103a9c"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
@@ -22,6 +21,10 @@ metafile = true
 file = "mods/indium.pw.toml"
 hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
 metafile = true
+
+[[files]]
+file = "mods/iris-1.7.0-snapshot+mc1.20.1-26cc69a.jar"
+hash = "c0d2cb69de06eec6a681f3adf475f6b51e01f27c6def29d13e328d01756fbd21"
 
 [[files]]
 file = "mods/lithium.pw.toml"
