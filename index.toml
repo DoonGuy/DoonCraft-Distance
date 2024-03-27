@@ -1,0 +1,34 @@
+hash-format = "sha256"
+
+[[files]]
+file = "LICENSE"
+hash = "e3a994d82e644b03a792a930f574002658412f62407f5fee083f2555c5f23118"
+
+[[files]]
+file = "README.md"
+hash = "ba126a50cc1a4d6416d2b00c96fec1d72d01c0b30e3583050fd1bd1fbea8134a"
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "fe79cc78adf75a5aa3f32b2ac61a141ee7a4db1baebf628bee058a9c4381b255"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "e3272db811c06088fee691b5338e922681073fbc4f0e55a7d3865abb8b62eb0e"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
+metafile = true
