@@ -1,12 +1,12 @@
 name = "DoonCraft Distance"
 author = "DoonGuy"
-version = "1.0.0"
+version = "1.1.0a"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e0d0aea333aacbf06c58dbe0fee8a7e584b4e91ff353b43ef4b5555b21513779"
+hash = "7e9b4e3f8d62672d7873ccacc6112dc9eb4f455b26d1819270716d3293961b6c"
 
 [versions]
 fabric = "0.15.7"
