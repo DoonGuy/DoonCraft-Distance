@@ -6,19 +6,74 @@ hash = "7d3a95e5e06978064ed3f8e2b7c8f845e7fd8a405294727cc708f94cb83b8059"
 
 [[files]]
 file = "README.md"
-hash = "ba126a50cc1a4d6416d2b00c96fec1d72d01c0b30e3583050fd1bd1fbea8134a"
+hash = "b5660928b164de433936138ea5a3d3d746a903f4744b5d603f80759150bee297"
 
 [[files]]
 file = "config/DistantHorizons.toml"
 hash = "cfc10a2abf86ff1f6bbc8566061688ce380a4aa6980e62df4f7b1c6b45a15361"
 
 [[files]]
-file = "mods/DistantHorizons-fabric-2.0.2-a-dev-1.20.1.jar"
-hash = "1e12688df5b051d4d399bf4bb919be7f30d18322507f1c7fd924b7217c103a9c"
+file = "mods/DistantHorizons-fabric-2.0.2-a-dev-1.20.4.jar"
+hash = "4c187cf5812006fca4370101274000724ed0c6dd4b8a513d750a29e575cda42a"
+
+[[files]]
+file = "mods/animatica.pw.toml"
+hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
+metafile = true
+
+[[files]]
+file = "mods/capes.pw.toml"
+hash = "617563db0d44229fb65eb660130d02d1a4d2f29233eda03b68d3273e700326f8"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "7a4414a95295f22f036699300878058ddf043659fc95ac1bf1d7f725acb0bc46"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "ab1c014ce67654e89af779137bdfd1f6f22888af218f44cf5d83e943d0d5fbc4"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "ecd143b560c3a3206ac1005ed0664bae8902a08caea9eef6fcb06e4bb5844f46"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "121cb63c8ecad9d730ecbd21000182b29a7f0e9ff8bf7645574d556a959d132d"
+metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7e7fb47db231cf93273a6ca4b9cacc6598b269458303f3e1b0d180c286d36045"
+hash = "3d6073b78407cf64f5f8ba7d684a626224a2d37e54ea36bfe27c8d62e5358c01"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
+metafile = true
+
+[[files]]
+file = "mods/fabricskyboxes.pw.toml"
+hash = "4d979c0f0902b82fc22fc60b741d3a9ce8331de9ffcc4f54658af92ff8ff8a81"
+metafile = true
+
+[[files]]
+file = "mods/fadeless.pw.toml"
+hash = "bd5311680997fada18e6492a91770fdc0762c718b3109820d67c1b019c2f1bf8"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "4146027b92b4885fddec00435233c61c3728b5e09265982ab187021519a4fa89"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "bd0e1bfaa16148cd114e33d11ec8f742979ec5b9372f6baa6a335a316659e70e"
 metafile = true
 
 [[files]]
@@ -27,19 +82,29 @@ hash = "69af9146103289d02cdcb5214435302a2af91f4c2aa459fae5f95bc5104abbbe"
 metafile = true
 
 [[files]]
-file = "mods/iris-1.7.0-snapshot+mc1.20.1-26cc69a.jar"
-hash = "c0d2cb69de06eec6a681f3adf475f6b51e01f27c6def29d13e328d01756fbd21"
+file = "mods/iris-1.7.0-snapshot+mc1.20.4-482321c.jar"
+hash = "86f065d50d630ee29f5bd5220a9e36e2c61f99bf64fa612d3d02a9a75a6bdf02"
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "6ccdedbcab01af6b64bf08338c6341a16efe907a71cca5b398192c75fbcc07c8"
+hash = "3dedde5213176d72e1c353877fa44315945e8f3da2ba05f5679d81e9f558bb1d"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+hash = "a552c2d8c1b994191a20f37e6b5812642daa1ec575c8abcf933f016df39bb6f5"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "8e25d9e5d7386aab80047434e48cc9d6677eed9f6dc724ee8b713e75ea153f8f"
+hash = "5e73967368d47038c38dc52fa298b45603fbe6baf2608f171638ff767178ad9a"
 metafile = true
 
 [[files]]
-file = "shaderpacks/Bliss-Shader-main.zip"
-hash = "264c970f1761ca0dfa5bc1ad8cbe70ce55cf1b1cdcb6d76588e5ebefb9898ff7"
+file = "resourcepacks/ovos-rustic-redemption.pw.toml"
+hash = "ceba369d6a02be1af2b97c14c86a1a21dabbdb6eb87e588f042bbbe9ae66b043"
+metafile = true
+
+[[files]]
+file = "shaderpacks/Bliss-Shader-DH.zip"
+hash = "c21d0bd8131091eac5194b481806e798d37ad2f25b12a5aaff8d9b120bb8544c"
