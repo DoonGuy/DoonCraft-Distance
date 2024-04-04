@@ -1,13 +1,13 @@
 name = "[WIP] Ovo's Rustic Redemption"
-filename = "Ovos Rustic Redemption - v1.14.1 for 1.20.X.zip"
+filename = "Ovos Rustic Redemption - v1.14.2 WIP for 1.20.2+.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ONXKJHsu/versions/dFC8jO6d/Ovos%20Rustic%20Redemption%20-%20v1.14.1%20for%201.20.X.zip"
+url = "https://cdn.modrinth.com/data/ONXKJHsu/versions/4YDePHlb/Ovos%20Rustic%20Redemption%20-%20v1.14.2%20WIP%20for%201.20.2%2B.zip"
 hash-format = "sha1"
-hash = "3fc3d4ad35e683fd9690aade33f41cb59117c784"
+hash = "343aeb13259252d522a31aaf5bec015909dca947"
 
 [update]
 [update.modrinth]
 mod-id = "ONXKJHsu"
-version = "dFC8jO6d"
+version = "4YDePHlb"
