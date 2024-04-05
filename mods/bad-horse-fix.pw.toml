@@ -1,0 +1,13 @@
+name = "Bad Horse Fix"
+filename = "bad-horse-fix-1.0.0-dh-EXPERIMENTAL.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/A4pJeHgM/versions/uBsJT5s3/bad-horse-fix-1.0.0-dh-EXPERIMENTAL.jar"
+hash-format = "sha1"
+hash = "06960479bfbe7a16e3d9208b6cf23e589d070bd4"
+
+[update]
+[update.modrinth]
+mod-id = "A4pJeHgM"
+version = "uBsJT5s3"

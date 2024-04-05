@@ -35,6 +35,11 @@ hash = "d8c4f0d87acda52c94a6f341cd98db22804e934b322eda4470089e3a511e8070"
 metafile = true
 
 [[files]]
+file = "mods/bad-horse-fix.pw.toml"
+hash = "77c413d482e918c9694785d8d7c268c4b48ab24a6d5331ea120bff2ba3cc3814"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "961a423cc427d4c785354239e8e7b251b5575756b1cf85dd1bc85011b47f0fbf"
 metafile = true
@@ -130,8 +135,8 @@ hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
 metafile = true
 
 [[files]]
-file = "mods/iris-1.7.0-snapshot+mc1.20.4-482321c.jar"
-hash = "86f065d50d630ee29f5bd5220a9e36e2c61f99bf64fa612d3d02a9a75a6bdf02"
+file = "mods/iris-1.7.0-snapshot+mc1.20.4-dfec34d-dirty.jar"
+hash = "9364fa2151d4e6cc51ae96c56e84af844f281716a2c53e2956ae888c251eb4e7"
 
 [[files]]
 file = "mods/lithium.pw.toml"
@@ -235,4 +240,4 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/Bliss-Shader-DH.zip"
-hash = "c21d0bd8131091eac5194b481806e798d37ad2f25b12a5aaff8d9b120bb8544c"
+hash = "d501dc5ba0727a761bc5eed96c983b435d7419ca70c2314630853af20ab92e00"
