@@ -6,19 +6,31 @@ hash = "7d3a95e5e06978064ed3f8e2b7c8f845e7fd8a405294727cc708f94cb83b8059"
 
 [[files]]
 file = "README.md"
-hash = "6f08356234a34274e5a07c936d8891b98be7938defc75c3b7e028803577f0d52"
+hash = "be4e1ee54a98bf375590c971bb286ce61af438742769c4c8c8659bb664e60951"
 
 [[files]]
-file = "config/DistantHorizons.toml"
+file = "config/yosbr/config/DistantHorizons.toml"
 hash = "cfc10a2abf86ff1f6bbc8566061688ce380a4aa6980e62df4f7b1c6b45a15361"
 
 [[files]]
-file = "config/betterf3.json"
+file = "config/yosbr/config/betterf3.json"
 hash = "c967de25c9263dfbd2a1086bc707446587d6071d221ba19d342206b852c97976"
 
 [[files]]
+file = "config/yosbr/config/dynamiccrosshair.json5"
+hash = "e98a7d16360d185d870a76b7930870aaa6f3f44566e786125b8c24c91c91e723"
+
+[[files]]
+file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "5c5c331f539f9e7eb22b6c941c473a8bc99b2808a40d6abe6b4872c5931446a7"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap.txt"
+hash = "aa6855bcb6ed1f209a42167d9fd9ab7493455a8ebf793d622afce1f155319766"
+
+[[files]]
 file = "config/yosbr/options.txt"
-hash = "9ae022474c71273fa40d86d1ad21e08a469efe46b8839d07d1e247d6ca3c7930"
+hash = "2f6f3d66ced06725566945f3a1a6789c6c7937ddc0171e000b33ca1f9fef532c"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
