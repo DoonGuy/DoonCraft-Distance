@@ -1,13 +1,13 @@
 name = "Bad Horse Fix"
-filename = "bad-horse-fix-1.0.0-dh-EXPERIMENTAL.jar"
+filename = "Bad-Horse-Fix-1.0.3-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/A4pJeHgM/versions/uBsJT5s3/bad-horse-fix-1.0.0-dh-EXPERIMENTAL.jar"
+url = "https://cdn.modrinth.com/data/A4pJeHgM/versions/7yiuvOAr/Bad-Horse-Fix-1.0.3-fabric.jar"
 hash-format = "sha1"
-hash = "06960479bfbe7a16e3d9208b6cf23e589d070bd4"
+hash = "41f400b2c779211541f8e63c928b3b1d9ec844cf"
 
 [update]
 [update.modrinth]
 mod-id = "A4pJeHgM"
-version = "uBsJT5s3"
+version = "7yiuvOAr"
